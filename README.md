@@ -127,9 +127,13 @@ tensor([[18, 11,  4],
         [11,  6,  1]])
 
 ## Output:
+
 i) Import and set up PyTorch and NumPy.
+
 ii) Create and manipulate tensors.
-iii) Perform matrix operations.
+
+iii) Perform matrix operation output,
+
 #### final matrix operation,
 tensor([[18, 11,  4],
         [16, 10,  4],
