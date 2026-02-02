@@ -86,6 +86,9 @@ Find the matrix product of `x` and `y`.
 i) Import and set up PyTorch and NumPy.
 ii) Create and manipulate tensors.
 iii) Perform matrix operations.
+tensor([[18, 11,  4],
+        [16, 10,  4],
+        [11,  6,  1]])
 
 ## Result:
 Thus, the PyTorch tensor operations, including reshaping, dtype conversion, and matrix multiplication, were successfully performed using the Python program.
